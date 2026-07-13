@@ -1,15 +1,15 @@
 <h1 align="center">Hi there, I'm Hudson Souza 👋</h1>
 
 <p align="center">
-  <img src="./assets/dotnet.png" alt=".NET" width="60" height="60" />
-  <img src="./assets/c#.png" alt="C#" width="60" height="60" />
-  <img src="./assets/sql-server.png" alt="SQL Server" width="60" height="60" />
-  <img src="./assets/ado.net.png" alt="ADO.NET" width="60" height="60" />
-  <img src="./assets/js.png" alt="JavaScript" width="60" height="60" />
-  <img src="./assets/html.png" alt="HTML5" width="60" height="60" />
-  <img src="./assets/css.png" alt="CSS3" width="60" height="60" />
-  <img src="./assets/asp.net.png" alt="ASP.NET Core" width="60" height="60" />
-  <img src="./assets/indie-web.png" alt="Indie Web Developer" width="60" height="60" />
+  <img src="./assets/dotnet.png" alt=".NET" width="80" height="80" />
+  <img src="./assets/csharp.png" alt="C#" width="80" height="80" />
+  <img src="./assets/sql-server.png" alt="SQL Server" width="80" height="80" />
+  <img src="./assets/ado.net.png" alt="ADO.NET" width="80" height="80" />
+  <img src="./assets/js.png" alt="JavaScript" width="80" height="80" />
+  <img src="./assets/html.png" alt="HTML5" width="80" height="80" />
+  <img src="./assets/css.png" alt="CSS3" width="80" height="80" />
+  <img src="./assets/asp.net.png" alt="ASP.NET Core" width="80" height="80" />
+  <img src="./assets/indie-web.png" alt="Indie Web Developer" width="80" height="80" />
 </p>
 
 <!--
